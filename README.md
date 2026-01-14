@@ -10,7 +10,7 @@ Apasionado por el crecimiento personal y profesional, me defino por mi dedicaci�
 Siempre en busca de nuevas oportunidades y desafíos para crecer y contribuir al éxito de mi equipo y mi organización.  
 
 * 🌍  Vivo en **Coquimbo, Chile**  
-* 🖥️  Mi portafolio: [Portafolio](http://dapper-sunburst-5c2a6a.netlify.app)  
+* 🖥️  Mi portafolio: [Portafolio](daniel-lobos-portfolio.daniel-lobos-arriaza.workers.dev)  
 * ✉️  Contáctame en: [daniel.lobos.arriaza@gmail.com](mailto:daniel.lobos.arriaza@gmail.com)  
 * 🧠  Actualmente aprendiendo **Flet con Python**  
 * 💬  Mi proyección: en 5 años obtener mi **título de Ingeniero en Informática**  
